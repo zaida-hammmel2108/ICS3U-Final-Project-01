@@ -2,7 +2,7 @@
 
 # Created by: Zaida Hammel
 # Created on: Oct 2022
-# This program is teh "Space Aliens" program on the PyBadge
+# This program is the "Space Aliens" program on the PyBadge
 
 import ugame
 import stage
@@ -18,4 +18,4 @@ def  game_scene():
         pass #just a placeholder for now
 
 if __name__ == "__main__":
-    game_scene():
+    game_scene()
